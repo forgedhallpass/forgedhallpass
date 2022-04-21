@@ -24,7 +24,7 @@ jobs:
           # Options
           user: forgedhallpass
           template: classic
-          base: activity, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: UTC
           plugin_achievements: yes
           plugin_achievements_display: detailed
