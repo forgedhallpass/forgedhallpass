@@ -32,6 +32,7 @@ jobs:
           plugin_discussions: yes
           plugin_discussions_categories: yes
           plugin_languages: yes
+          plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
@@ -48,4 +49,4 @@ jobs:
           plugin_notable_skipped: aramrami/OWASP-CSRFGuard
           plugin_notable_types: commit
           repositories_affiliations: owner, maintainer, member, collaborator
-          repositories_forks: false
+          repositories_forks: true
