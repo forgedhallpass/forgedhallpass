@@ -48,4 +48,4 @@ jobs:
           plugin_notable_skipped: aramrami/OWASP-CSRFGuard
           plugin_notable_types: commit
           repositories_affiliations: owner, maintainer, member, collaborator
-          repositories_forks: yes
+          repositories_forks: false
